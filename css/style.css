@@ -37,4 +37,13 @@ body {
 		100% 75vh,
 		0 100%
 	); /*bennettfeely.com/clippy*/
+	position: relative;
+}
+.logo-box {
+	position: absolute;
+	top: 40px;
+	left: 40px;
+}
+.logo {
+	height: 35px;
 }
